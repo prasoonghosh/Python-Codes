@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a03616ee-cc48-404f-be46-7f6327fb364a" name="Changes" comment="Completed question 1 of Lab Session 1">
-      <change afterPath="$PROJECT_DIR$/loops.py" afterDir="false" />
+    <list default="true" id="a03616ee-cc48-404f-be46-7f6327fb364a" name="Changes" comment="Completed while loops">
+      <change afterPath="$PROJECT_DIR$/Lab Questions/Lab 1/Q2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/for-loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -21,6 +22,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -46,7 +48,7 @@
       <recent name="D:\Files and Folders\Repositories\Python-Codes\Lab Questions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.while-loops">
+  <component name="RunManager" selected="Python.Q2">
     <configuration name="Q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="comparing-things" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="for-loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +103,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="D:\Files and Folders\Repositories\Python-Codes\comparing-things.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for-loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -175,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Q2" />
+        <item itemvalue="Python.for-loops" />
         <item itemvalue="Python.while-loops" />
         <item itemvalue="Python.if-else-elif" />
-        <item itemvalue="Python.Q2" />
         <item itemvalue="Python.Q1" />
-        <item itemvalue="Python.comparing-things" />
       </list>
     </recent_temporary>
   </component>
@@ -248,7 +250,21 @@
       <option name="project" value="LOCAL" />
       <updated>1654448717431</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Completed while loops">
+      <created>1654672756043</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1654672756043</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Completed while loops">
+      <created>1654672835813</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1654672835813</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -270,6 +286,7 @@
     <MESSAGE value="Compraring Things" />
     <MESSAGE value="Learned if-else-elif statements" />
     <MESSAGE value="Completed question 1 of Lab Session 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed question 1 of Lab Session 1" />
+    <MESSAGE value="Completed while loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed while loops" />
   </component>
 </project>
