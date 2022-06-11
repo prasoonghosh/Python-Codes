@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a03616ee-cc48-404f-be46-7f6327fb364a" name="Changes" comment="Completed while loops">
-      <change afterPath="$PROJECT_DIR$/Lab Questions/Lab 1/Q2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/for-loops.py" afterDir="false" />
+    <list default="true" id="a03616ee-cc48-404f-be46-7f6327fb364a" name="Changes" comment="Completed for loop and Q2 of Lab exercise 1">
+      <change afterPath="$PROJECT_DIR$/Lab Questions/Lab 2/Fibonnaci Series.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recussion-loops.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,8 +48,8 @@
       <recent name="D:\Files and Folders\Repositories\Python-Codes\Lab Questions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Q2">
-    <configuration name="Q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Fibonnaci Series">
+    <configuration name="Fibonnaci Series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -57,11 +57,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab Questions/Lab 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab Questions/Lab 2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab Questions/Lab 1/Q1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab Questions/Lab 2/Fibonnaci Series.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -112,27 +112,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="if-else-elif" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Codes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/if-else-elif.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python-Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,6 +125,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="recussion-loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recussion-loops.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -177,11 +177,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Fibonnaci Series" />
+        <item itemvalue="Python.recussion-loops" />
         <item itemvalue="Python.Q2" />
         <item itemvalue="Python.for-loops" />
         <item itemvalue="Python.while-loops" />
-        <item itemvalue="Python.if-else-elif" />
-        <item itemvalue="Python.Q1" />
       </list>
     </recent_temporary>
   </component>
@@ -264,7 +264,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654672835813</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Completed for loop and Q2 of Lab exercise 1">
+      <created>1654784258488</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1654784258488</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -287,6 +294,7 @@
     <MESSAGE value="Learned if-else-elif statements" />
     <MESSAGE value="Completed question 1 of Lab Session 1" />
     <MESSAGE value="Completed while loops" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed while loops" />
+    <MESSAGE value="Completed for loop and Q2 of Lab exercise 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Completed for loop and Q2 of Lab exercise 1" />
   </component>
 </project>
