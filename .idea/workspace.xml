@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a03616ee-cc48-404f-be46-7f6327fb364a" name="Changes" comment="Moved all the codes into their respective directories">
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Codes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Codes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a03616ee-cc48-404f-be46-7f6327fb364a" name="Changes" comment="Started coding simple-calculator.py" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
