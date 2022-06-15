@@ -4,17 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a03616ee-cc48-404f-be46-7f6327fb364a" name="Changes" comment="Completed recursion loops and Q1 of Lab exercise 2">
-      <change afterPath="$PROJECT_DIR$/../../Documents/Personal/IBM Internship/Retail-sales-bot/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Documents/Personal/IBM Internship/Retail-sales-bot/.idea/Retail-sales-bot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Documents/Personal/IBM Internship/Retail-sales-bot/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Documents/Personal/IBM Internship/Retail-sales-bot/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Documents/Personal/IBM Internship/Retail-sales-bot/package-lock.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../Documents/Personal/IBM Internship/Retail-sales-bot/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/Python-Codes.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python-Codes.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="a03616ee-cc48-404f-be46-7f6327fb364a" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/Practice/while-loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lists.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,7 +23,7 @@
   </component>
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../Documents/Personal/IBM Internship/Retail-sales-bot" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -44,20 +36,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "D:/Files and Folders/Documents/Personal/IBM Internship/Retail-sales-bot"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Files and Folders/Documents/Personal/IBM Internship/Retail-sales-bot&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\Files and Folders\Repositories\Python-Codes\Lab Questions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Strings">
+  <component name="RunManager" selected="Python.while-loop">
     <configuration name="Fibonnaci Series" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -79,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Q2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Q1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -87,11 +79,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab Questions/Lab 1" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Lab Questions/Lab 3" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab Questions/Lab 1/Q2.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lab Questions/Lab 3/Q1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +113,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="for-loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -133,7 +125,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/for-loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lists.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +155,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="recussion-loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="while-loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +163,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/recussion-loops.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/while-loop.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -186,11 +178,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.while-loop" />
+        <item itemvalue="Python.lists" />
+        <item itemvalue="Python.Q1" />
         <item itemvalue="Python.Strings" />
         <item itemvalue="Python.Fibonnaci Series" />
-        <item itemvalue="Python.recussion-loops" />
-        <item itemvalue="Python.Q2" />
-        <item itemvalue="Python.for-loops" />
       </list>
     </recent_temporary>
   </component>
@@ -287,7 +279,14 @@
       <option name="project" value="LOCAL" />
       <updated>1654965058858</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Initial Commit">
+      <created>1655186644801</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1655186644801</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -313,6 +312,7 @@
     <MESSAGE value="Completed while loops" />
     <MESSAGE value="Completed for loop and Q2 of Lab exercise 1" />
     <MESSAGE value="Completed recursion loops and Q1 of Lab exercise 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="Completed recursion loops and Q1 of Lab exercise 2" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
 </project>
