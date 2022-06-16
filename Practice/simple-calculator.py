@@ -1,17 +1,22 @@
-from unicodedata import digit
+# while 1:
+#     num1 = input("Enter num1: \n")
+#     if not (num1.isdigit()):
+#         print("Not a number!")
+#         break
+#     num1 = int(num1)
+#     if num1 % 2 == 0 and num1 < 100:
+#         print("Valid")
+#     else:
+#         print("Try again!")
+#         continue
 
-# num2 = input("Enter num2: ")
-# operator = input("Select operation (+,-,%, //, *, **: )")
+# if 5 > 6:
+#     print("5 is bigger")
+# else:
+#     pass
 
-while True:
-    num1 = input("Enter num1: \n")
-    if not (num1 is digit()):
-        print("Not a number!")
-        break
-    else:
-        num1 = int(num1)
-        if num1 % 2 == 0 and num1 < 100:
-            print("Valid")
-        else:
-            print("Try again!")
-            continue
+x = input("Insert an operator: \n")
+if x == "+":
+    print("plus")
+elif x == "*":
+    print("multi")
