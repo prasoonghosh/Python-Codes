@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a03616ee-cc48-404f-be46-7f6327fb364a" name="Changes" comment="Initial Commit">
+    <list default="true" id="a03616ee-cc48-404f-be46-7f6327fb364a" name="Changes" comment="Added while-loops2.py and while-initialize.py and modifies while-loops.py">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Coursera Codes/while-loops.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera Codes/while-loops.py" afterDir="false" />
     </list>
@@ -308,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655381446747</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Added while-loops2.py and while-initialize.py and modifies while-loops.py">
+      <created>1655384719147</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1655384719147</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -337,6 +344,7 @@
     <MESSAGE value="Committing New and modified files that are lists.py and while-loop.py" />
     <MESSAGE value="Moved all the codes into their respective directories" />
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Added while-loops2.py and while-initialize.py and modifies while-loops.py" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added while-loops2.py and while-initialize.py and modifies while-loops.py" />
   </component>
 </project>
