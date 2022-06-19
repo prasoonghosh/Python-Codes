@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a03616ee-cc48-404f-be46-7f6327fb364a" name="Changes" comment="Added while loops practice quiz">
+    <list default="true" id="a03616ee-cc48-404f-be46-7f6327fb364a" name="Changes" comment="Committing workspace.xml">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Coursera Codes/lists.py" beforeDir="false" afterPath="$PROJECT_DIR$/Coursera Codes/lists.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +50,28 @@
       <recent name="D:\Files and Folders\Repositories\Python-Codes\Lab Questions" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.while-loops">
+  <component name="RunManager" selected="Python.lists">
+    <configuration name="lists" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python-Codes" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coursera Codes" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coursera Codes/lists.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="Python-Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -134,27 +156,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="while-loop" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python-Codes" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Practice" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Practice/while-loop.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="while-loops" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python-Codes" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -178,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.lists" />
         <item itemvalue="Python.while-loops" />
         <item itemvalue="Python.max_pairwise_product" />
         <item itemvalue="Python.sum" />
         <item itemvalue="Python.simple-calculator" />
-        <item itemvalue="Python.while-loop" />
       </list>
     </recent_temporary>
   </component>
@@ -321,7 +322,14 @@
       <option name="project" value="LOCAL" />
       <updated>1655385597696</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Committing workspace.xml">
+      <created>1655646121902</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1655646121902</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,6 +360,7 @@
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Added while-loops2.py and while-initialize.py and modifies while-loops.py" />
     <MESSAGE value="Added while loops practice quiz" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added while loops practice quiz" />
+    <MESSAGE value="Committing workspace.xml" />
+    <option name="LAST_COMMIT_MESSAGE" value="Committing workspace.xml" />
   </component>
 </project>
